@@ -1,16 +1,30 @@
-### Hi there 👋
+# ¡Hola, soy Sara! 👋
 
-<!--
-**DolB612/DolB612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi rincón creativo en el mundo del código! 💻🎨
 
-Here are some ideas to get you started:
+## Sobre Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy una desarrolladora Jr. especializada en Front-End con un enfoque creativo y tecnológico. Mi viaje académico incluye Artes Visuales y soy egresada de la Ingeniería de Electrónica y Nanosensores.
+
+## Habilidades
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Arduino
+- Microcontrolador
+- Photoshop
+- ilustrador
+- Manejo de camapra fotográfica
+- Tecnicas plásticas mixtas.
+
+## Idiomas
+
+Inglés (B2)
+
+## ¿Qué Busco?
+
+Estoy emocionada por enfrentar nuevos desafíos y seguir aprendiendo en el apasionante mundo del desarrollo web. Busco unirme a un equipo dinámico donde pueda aplicar y ampliar mis habilidades con entusiasmo y creatividad, llevando consigo la diversidad de mi formación en artes visuales y tecnología.
+
+¡Acompáñame en este viaje de ceros y unos, donde la creatividad y la tecnología bailan juntas en armonía! 💃🚀

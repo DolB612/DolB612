@@ -16,7 +16,7 @@ Soy una desarrolladora Jr. especializada en Front-End con un enfoque creativo y 
 - Microcontrolador
 - Photoshop
 - ilustrador
-- Manejo de camapra fotográfica
+- Cámara fotográfica analógica y digital 
 - Tecnicas plásticas mixtas.
 
 ## Idiomas

@@ -30,7 +30,6 @@ Estoy emocionada por enfrentar nuevos desafíos y seguir aprendiendo en el apasi
 ¡Acompáñame en este viaje de ceros y unos, donde la creatividad y la tecnología bailan juntas en armonía! 💃🚀
 
 ## 🌐 Socials:
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-arvizu/)
 
 

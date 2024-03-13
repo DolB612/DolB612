@@ -21,7 +21,7 @@ Soy una desarrolladora Jr. especializada en Front-End con un enfoque creativo y 
 
 ## Idiomas
 
-Inglés (B2)
+Inglés (A2)
 
 ## ¿Qué Busco?
 

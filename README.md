@@ -12,6 +12,9 @@ Soy una desarrolladora Jr. especializada en Front-End con un enfoque creativo y 
 - CSS
 - JavaScript
 - React
+- Figma
+- Historias de Usuario
+- Diseño UX/UI
 - Arduino
 - Microcontrolador
 - Photoshop
